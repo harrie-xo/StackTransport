@@ -1,0 +1,14 @@
+{
+    "name": "harrie-xo/stack-transport",
+    "description": "a lightweight stack sharing variable over repositoriey php framework",
+    "type": "metapackage",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Harrie Anto",
+            "email": "harrie@youreinspire.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
